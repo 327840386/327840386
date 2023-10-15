@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+#### My name is Yuhao Lu. You can call me Michael.
+#### I want to use code to make something great happen. 
+#### Explore, thinking and coding! Have fun!
 <!--
 **327840386/327840386** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
